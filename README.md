@@ -16,6 +16,33 @@ Scikit-Learn
 Pickle
 Streamlit
 
+Data Preprocessing
+
+Loaded the copper CSV into a DataFrame.
+Cleaned and filled missing values, addressed outliers, and adjusted data types.
+Analyzed data distribution and treated skewness
+
+
+Feature Engineering
+
+Assessed feature correlation to identify potential multicollinearity
+
+
+
+
+Modeling
+
+
+Built a regression model for selling price prediction.
+Built a classification model for status prediction.
+Encoded categorical features and optimized hyperparameters.
+
+
+Streamlit Application
+
+Developed a user interface for interacting with the models.
+Predicted selling price and status based on user input
+Pickled the trained models for deployment.
 
 
 📚 Packages and Libraries
