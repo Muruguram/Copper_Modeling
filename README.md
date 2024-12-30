@@ -19,12 +19,19 @@ Streamlit
 
 
 📚 Packages and Libraries
+
 !pip install numpy
+
 !pip install pandas
+
 !pip install scikit-learn
+
 !pip install xgboost
+
 !pip install matplotlib
+
 !pip install seaborn
+
 !pip install streamlit
 
 
