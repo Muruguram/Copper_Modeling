@@ -1,4 +1,7 @@
 Industrial Copper Modeling
+
+
+
 📘 Introduction
 This project leverages machine learning to predict the selling price and status of copper. After cleaning the data, filling missing values, and addressing skewness and outliers, I conducted feature engineering and correlation analysis. I developed a Random Forest regression model for predicting selling prices and an Extra Trees classification model for predicting status. Additionally, I created a Streamlit app that allows users to input data and obtain interactive predictions, displaying the results clearly.
 
